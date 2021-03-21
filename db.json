@@ -1,11 +1,4 @@
 {
-  "redeem": {
-    "message": "success",
-    "data": {
-      "score": 7500,
-      "party": "eyJpdiI6ImJzdU1yWHo0N1p4N1RtUGNHUExweVE9PSIsInZhbHVlIjoiazZ1bXhjY21xNTRmc3NxMlk0d1Njdz09IiwibWFjIjoiY2M2YjhmODdjNzM5NjE1YmQ5Mzg3ZDRiYmRlM2JhN2RiN2Q1MjJiZTQ3ZGFlNzNiYzhiNTkyZGEwY2RkNGZjMCJ9"
-    }
-  },
   "party-init-error": {
     "message": "The given data was invalid.",
     "errors": {
@@ -24,14 +17,6 @@
   "party-attempt": [],
   "response-attempt": {
     "message": "success"
-  },
-  "response-attempt-error": {
-    "message": "The given data was invalid.",
-    "errors": {
-      "party": [
-        "Party not started"
-      ]
-    }
   },
   "response-attempt-finish-game": {
     "message": "success",
